@@ -1,0 +1,13 @@
+c:\users\huy\documents\visual studio 2013\Projects\WcfService\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\huy\documents\visual studio 2013\Projects\WcfService\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\huy\documents\visual studio 2013\Projects\WcfService\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\huy\documents\visual studio 2013\Projects\WcfService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\huy\documents\visual studio 2013\Projects\WcfService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\huy\documents\visual studio 2013\Projects\WcfService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\huy\documents\visual studio 2013\Projects\WcfService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\huy\documents\visual studio 2013\Projects\WcfService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\huy\documents\visual studio 2013\Projects\WcfService\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\huy\documents\visual studio 2013\Projects\WcfService\WindowsFormsApplication1\bin\Debug\WcfService.dll
+C:\Users\huy\documents\visual studio 2013\Projects\WcfService\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\huy\documents\visual studio 2013\Projects\WcfService\WindowsFormsApplication1\bin\Debug\WcfService.pdb
+C:\Users\huy\documents\visual studio 2013\Projects\WcfService\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
